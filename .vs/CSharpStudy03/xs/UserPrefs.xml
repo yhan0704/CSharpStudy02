@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{016BD307-B1A1-4711-A934-3113A50735C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/StudyController.cs">
+    <Files>
+      <File FileName="Controllers/StudyController.cs" Line="17" Column="10" />
+      <File FileName="Views/Study/Index.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpStudy03" expanded="True">
+            <Node name="CSharpStudy03" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="StudyController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Study" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CSharpStudy03 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
